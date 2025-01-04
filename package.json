@@ -1,0 +1,24 @@
+{
+  "name": "extendo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "extendo.ts",
+  "scripts": {
+    "build": "tsc --build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XeClutch/extendo.git"
+  },
+  "author": "Josh Ozeri",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/XeClutch/extendo/issues"
+  },
+  "homepage": "https://github.com/XeClutch/extendo#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2",
+    "bowser": "2.11.0"
+  }
+}
